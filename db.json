@@ -304,7 +304,7 @@
           "location": "SCV",
           "status": "buffered",
           "profile": "p3",
-          "year": 2015,
+          "year": 2017,
           "quarter": "Q3",
           "imt": "imt4"
         },
@@ -315,31 +315,9 @@
           "location": "London",
           "status": "bench",
           "profile": "p3",
-          "year": 2015,
+          "year": 2017,
           "quarter": "Q2",
           "imt": "imt1"
-        },
-        {
-          "id": "d367",
-          "name": "Valentine",
-          "main_skill": "Machine Learning",
-          "location": "Austin",
-          "status": "bench",
-          "profile": "p2",
-          "year": 2017,
-          "quarter": "Q1",
-          "imt": "imt3"
-        },
-        {
-          "id": "3de6",
-          "name": "Kristie",
-          "main_skill": "Java",
-          "location": "SCV",
-          "status": "allocated",
-          "profile": "p1",
-          "year": 2017,
-          "quarter": "Q3",
-          "imt": "imt2"
         }
       ]
 }
